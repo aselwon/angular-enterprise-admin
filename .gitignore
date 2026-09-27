@@ -26,3 +26,5 @@ DEPLOY_STATUS.md
 _ui-diff-prompts/
 _reference/
 
+
+.wrangler/
