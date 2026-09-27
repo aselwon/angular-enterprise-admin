@@ -2,6 +2,11 @@
 
 Cobalt IAM is a compact Angular 21 administration console for managing employees, roles, access policies, and audit history. It is an offline first portfolio application backed by an in memory mock API; refreshing the browser restores the seed data.
 
+## Public demo
+
+[Open the live Cobalt IAM demo](https://cobalt-iam.pages.dev).
+
+
 ## Requirements and setup
 
 Node.js 22.12 or newer and npm are required.
